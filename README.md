@@ -27,7 +27,7 @@ Olá 👋, sou Carlos Vinicius, um desenvolvedor full-stack do Brasil.
 [![LinkedIn]()
 
 ## Informações de contato
-Whatsapp: 71 98905-0063.
+Contato: 71 98905-0063.
 
 E-mail: carlosestudante82675@gmail.com .
 
