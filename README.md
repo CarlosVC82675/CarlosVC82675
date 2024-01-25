@@ -3,7 +3,7 @@
 <p>
 Olá 👋, sou Carlos Vinicius, um desenvolvedor full-stack do Brasil.
 
-- 🔨 Atualmente, estou realizando um estudo intensivo de alguns tópicos relacionados à programação. Entre esses estudos, planejo incluir UX design, Python e JavaScript.
+- 🔨 Atualmente, estou realizando um estudo e revisão intensiva de alguns tópicos relacionados à programação. Entre esses estudos, planejo incluir UX design, Python e JavaScript.
 
 - 🚀 Estou em busca de oportunidades de trabalho ou estágio, com o objetivo de ganhar mais experiência na área de desenvolvimento e evoluir profissionalmente.
     
