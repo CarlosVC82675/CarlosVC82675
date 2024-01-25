@@ -23,7 +23,7 @@ Olá 👋, sou Carlos Vinicius, um desenvolvedor full-stack do Brasil.
 ## Social:
 <!-- Links -->
 - Estou trabalhando nisso
-[![LinkedIn](https://www.linkedin.com/in/perfil-carlos-vinicius)
+[LinkedIn](https://www.linkedin.com/in/perfil-carlos-vinicius)
 
 ## Informações de contato
 Contato: 71 98905-0063.
